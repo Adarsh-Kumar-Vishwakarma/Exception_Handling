@@ -1,7 +1,7 @@
 // Package named Adarsh
 package Adarsh;
 
-// Custom exception class for handling cases where tax is not eligible
+// Userdefined exception class for handling cases where tax is not eligible
 public class Tax_Not_Eligible extends Exception 
 {
 
