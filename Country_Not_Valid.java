@@ -1,7 +1,7 @@
 // Package named Adarsh
 package Adarsh;
 
-// Custom exception class for handling invalid country
+// Userdefined exception class for handling invalid country
 public class Country_Not_Valid extends Exception 
 {
 
