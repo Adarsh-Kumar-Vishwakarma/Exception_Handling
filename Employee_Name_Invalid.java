@@ -1,7 +1,7 @@
 // Package named Adarsh
 package Adarsh;
 
-// Custom exception class for handling invalid employee name
+// Userdefined exception class for handling invalid employee name
 public class Employee_Name_Invalid extends Exception 
 {
 
